@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600&display=swap");
+:root {
+  --font-heading: 'Quicksand', sans-serif;
+}
+
+.contained {
+  max-width: 1300px;
+  padding: 0 2rem;
+}
+/*# sourceMappingURL=style.css.map */
